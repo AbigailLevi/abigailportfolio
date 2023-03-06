@@ -1,0 +1,24 @@
+.contactme{
+    font-family: 'Times New Roman', Times, serif;
+}.conbye{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 60px;
+}
+
+.conme{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 20px;  
+}
+.myinfo{
+    color: blueviolet;
+    font-size: 40px;
+}
+.social{
+    color: purple;
+    font-size: 25px;
+  text-align: center;
+}
