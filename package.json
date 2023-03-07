@@ -1,7 +1,7 @@
 {
+  "homepage": "https://abigaillevi.github.io/",
   "name": "abigailportfolio",
   "version": "0.1.0",
-  "homepage": "https://abigaillevi.github.io/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
