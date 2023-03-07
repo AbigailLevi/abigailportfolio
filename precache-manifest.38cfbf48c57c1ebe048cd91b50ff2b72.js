@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "5bca8055d2b3257091ec",
+    "revision": "dfb02b58a148b59af673",
     "url": "/abigailportfolio/static/css/main.773edc56.chunk.css"
   },
   {
-    "revision": "5bca8055d2b3257091ec",
-    "url": "/abigailportfolio/static/js/main.5bca8055.chunk.js"
+    "revision": "dfb02b58a148b59af673",
+    "url": "/abigailportfolio/static/js/main.dfb02b58.chunk.js"
   },
   {
     "revision": "11419f9ab822d4f34c57",
     "url": "/abigailportfolio/static/js/1.11419f9a.chunk.js"
   },
   {
-    "revision": "1d3e1f0e472b208210a8",
-    "url": "/abigailportfolio/static/js/2.1d3e1f0e.chunk.js"
+    "revision": "f33b8f069f163b69d4e5",
+    "url": "/abigailportfolio/static/js/2.f33b8f06.chunk.js"
   },
   {
     "revision": "8521ff6c4080c8f57ddb",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/abigailportfolio/static/media/instaproj.a024d90e.png"
   },
   {
-    "revision": "3cd331e8538feb6d7dc7e8015aa665e6",
+    "revision": "cce769079547258169723a2ac49f6349",
     "url": "/abigailportfolio/index.html"
   }
 ];
